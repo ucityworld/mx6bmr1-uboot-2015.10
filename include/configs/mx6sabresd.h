@@ -15,6 +15,7 @@
 #include "imx6_spl.h"
 #endif
 
+#define CONFIG_SYS_PROMPT       "BM# "
 #define CONFIG_MACH_TYPE	3980
 #define CONFIG_MXC_UART_BASE	UART1_BASE
 #define CONFIG_CONSOLE_DEV		"ttymxc0"

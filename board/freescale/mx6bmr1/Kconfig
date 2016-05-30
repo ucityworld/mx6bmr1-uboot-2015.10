@@ -1,12 +1,12 @@
-if TARGET_MX6BMR1
+if TARGET_MX6SABRESD
 
 config SYS_BOARD
-	default "mx6bmr1"
+	default "mx6sabresd"
 
 config SYS_VENDOR
 	default "freescale"
 
 config SYS_CONFIG_NAME
-	default "mx6bmr1"
+	default "mx6sabresd"
 
 endif
